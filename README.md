@@ -2,6 +2,8 @@
 <p>Hey guys, I'm Gian Lucas! I am a software engineer at Senior Sistemas Blumenau, Brazil. Born in Curitiba, Paraná and raised in Ibirama, Santa Catarina. I am currently studying software engineering at UDESC- University of the State of Santa Catarina. Home office work at the branch located in Itu, São Paulo. I previously worked as technical support where I had a great knowledge about programming and the universe of software systems, in August 2021 I got a job as a programmer at Senior Sistemas and I am always looking to learn more to become the best.</p>
 
 
+
+
 <h2>I’m currently working:</h2>
 
 <br>
@@ -37,5 +39,7 @@
 [![Status](https://github-readme-stats.vercel.app/api?username=GianLAFerreira&theme=radical&show_icons=true&bg_color=000000&icon_color=3dfb04&border_color=000000)](https://github.com/GianLAFerreira)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GianLAFerreira&theme=radical&bg_color=000000&icon_color=3dfb04&border_color=000000)](https://github.com/GianLAFerreira)
 
+<br><br>
 
+<img width=100% alt="jogo" src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif">
 
