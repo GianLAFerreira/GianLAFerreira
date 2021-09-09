@@ -1,7 +1,8 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gian Lucas</h1>
+<p>Hey guys, I'm Gian Lucas! I am a software engineer at Senior Sistemas Blumenau, Brazil. Born in Curitiba, Paraná and raised in Ibirama, Santa Catarina. I am currently studying software engineering at UDESC- University of the State of Santa Catarina. Home office work at the branch located in Itu, São Paulo. I previously worked as technical support where I had a great knowledge about programming and the universe of software systems, in August 2021 I got a job as a programmer at Senior Sistemas and I am always looking to learn more to become the best.</p>
 
 
-<h2> I’m currently working on Senior Sistemas as Backend developer. I’m currently working:</h2>
+<h2>I’m currently working:</h2>
 
 <br>
 
@@ -18,6 +19,7 @@
 ![Github nodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Github react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br><br>
 
