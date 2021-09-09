@@ -23,7 +23,7 @@
 
 <br><br>
 
-<h2>Minhas redes sociais:</h2>
+<h2>My social medias:</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/gian-lucas-alves-ferreira-3680a21bb/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=link_do_seu_perfil)](https://github.com/GianLAFerreira)
@@ -32,7 +32,7 @@
 
 <br><br>
 
-<h2>Minhas informações aqui no GitHub:</h2>
+<h2>My info here on github:</h2>
 
 [![Status](https://github-readme-stats.vercel.app/api?username=GianLAFerreira&theme=radical&show_icons=true&bg_color=000000&icon_color=3dfb04&border_color=000000)](https://github.com/GianLAFerreira)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GianLAFerreira&theme=radical&bg_color=000000&icon_color=3dfb04&border_color=000000)](https://github.com/GianLAFerreira)
