@@ -12,7 +12,7 @@
     <img alt="logo delphi" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </p>
 
-<br><br>
+<br>
 <h2 align=center>I'm currently learning:</h2>
 
 <p align=center>
@@ -24,7 +24,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 <h2  align=center>My social medias:</h2>
 
@@ -44,7 +44,7 @@
     </a>
 </p>
 
-<br><br>
+<br>
 
 <h2  align=center>My info here on github:</h2>
 <p align=center>
