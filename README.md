@@ -42,5 +42,10 @@
     <img alt="linguagens github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianLAFerreira&theme=radical&bg_color=000000&icon_color=3dfb04&border_color=000000">
 </p>
 <br><br>
+
+<img width=100% height=150px alt="jogo" src="https://github4life.herokuapp.com/GianLAFerreira.gif?z=6">
+
+<br><br>
+
 <img width=100% alt="jogo" src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif">
 
