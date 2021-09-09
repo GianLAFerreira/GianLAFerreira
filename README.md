@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gian Lucas</h1>
 
 
-<h2> I’m currently working on Senior Sistemas as a Backend developer. I’m currently learning:</h2>
+<h2> I’m currently working on Senior Sistemas as a Backend developer. I’m currently studying/working:</h2>
 
 <br>
 
