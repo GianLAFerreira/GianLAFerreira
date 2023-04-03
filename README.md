@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gian Lucas</h1>
-<p>Hey guys, I'm Gian Lucas! I am a software engineer at Senior Sistemas Blumenau, Brazil. Born in Curitiba, Paraná and raised in Ibirama, Santa Catarina. I am currently studying software engineering at UDESC- University of the State of Santa Catarina. Home office work at the branch located in Itu, São Paulo. I previously worked as technical support where I had a great knowledge about programming and the universe of software systems, in August 2021 I got a job as a programmer at Senior Sistemas and I am always looking to learn more to become the best.</p>
+<p>Hey guys, I'm Gian Lucas! I am a software engineer at Senior Sistemas Blumenau, Brazil. Born in Curitiba, Paraná and raised in Ibirama, Santa Catarina. I am currently studying software engineering at UDESC- University of the State of Santa Catarina. Home office work at the branch located in Itu, São Paulo.</p>
 
 <h2 align=center>I’m currently working:</h2>
 <br>
